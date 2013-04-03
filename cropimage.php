@@ -3,7 +3,7 @@
 * Author: Mar Cejas
 * Added: resizeTo($width,$height), resizeMax($width,$height)
 * Date: 09/08/2011
-* Link: http://www.github.com/mvcejas
+* Link: https://github.com/mvcejas/image_resize
 * Orig Author: Simon Jarvis
 * Orig File: SimpleImage.php
 */
